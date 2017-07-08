@@ -1,0 +1,8 @@
+A:\Dropbox\GitHub\C#\TicketNow v1.0\TicketNow v1.0\bin\Debug\TicketNow v1.0.exe
+A:\Dropbox\GitHub\C#\TicketNow v1.0\TicketNow v1.0\bin\Debug\TicketNow v1.0.pdb
+A:\Dropbox\GitHub\C#\TicketNow v1.0\TicketNow v1.0\obj\x86\Debug\TicketNow_v1._0.Properties.Resources.resources
+A:\Dropbox\GitHub\C#\TicketNow v1.0\TicketNow v1.0\obj\x86\Debug\TicketNow v1.0.csproj.GenerateResource.Cache
+A:\Dropbox\GitHub\C#\TicketNow v1.0\TicketNow v1.0\obj\x86\Debug\TicketNow v1.0.exe
+A:\Dropbox\GitHub\C#\TicketNow v1.0\TicketNow v1.0\obj\x86\Debug\TicketNow v1.0.pdb
+A:\Dropbox\GitHub\C#\TicketNow v1.0\TicketNow v1.0\obj\x86\Debug\TicketNow v1.0.csprojResolveAssemblyReference.cache
+A:\Dropbox\GitHub\C#\TicketNow v1.0\TicketNow v1.0\obj\x86\Debug\TicketNow_v1._0.MainForm.resources
